@@ -26,7 +26,7 @@
     "node": ">= 0.8.0"
   },
   "dependencies": {
-    "cssjanus" : "https://github.com/markcastro/grunt-cssjanus/archive/master.tar.gz"
+    "cssjanus" : "https://github.com/markcastro/cssjanus/archive/master.tar.gz"
   },
   "devDependencies": {
     "grunt": "~0.4.1"
